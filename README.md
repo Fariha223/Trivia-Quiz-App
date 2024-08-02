@@ -23,7 +23,7 @@ This project is a simple quiz application built using Python and the Tkinter lib
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Fariha223/quiz-application.git
+    gh repo clone Fariha223/Trivia-Quiz-App
     cd quiz-application
     ```
 
